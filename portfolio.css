@@ -1,0 +1,29 @@
+:root{
+            --bg-primary: #083361c5;
+        }
+        .btn-download{
+            background-color: var(--bg-primary);
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+        .container-fluid.home-sec{
+            background-image: url('book.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        /* .nav-item{
+            display: flex;
+            align-items: center;
+        } */
+        /* .row{
+            display:flex;
+        }
+        .home-sec{
+            height: 300px;
+            background-color: var(--bg-primary);
+            color: white;
+            display: flex;
+            padding: 100px;
+        } */
